@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pri_title">Privasi &amp; keamanan</string>
+    <string name="pri_subtitle">Kelola cara buku harian pribadi Anda dilindungi.</string>
+    <string name="pri_local_title">Data Anda tetap di perangkat ini</string>
+    <string name="pri_local_body">Tidak perlu akun. Tidak ada yang keluar dari ponsel tanpa tindakan eksplisit Anda.</string>
+    <string name="pri_lock_title">Kunci aplikasi</string>
+    <string name="pri_lock_body">Kunci PIN / biometrik direncanakan berikutnya dan memerlukan desain keamanan khusus (Keystore, cadangan terenkripsi, semantik penghapusan). Belum tersedia.</string>
+    <string name="pri_coming_soon">Segera hadir</string>
+    <string name="pri_export_title">Ekspor data saya</string>
+    <string name="pri_export_body">Unduh salinan JSON dari catatan Anda, termasuk versi skema. Simpan file di tempat yang aman — file ini sensitif.</string>
+    <string name="pri_export_action">Ekspor</string>
+    <string name="pri_controls_title">Kontrol data</string>
+    <string name="pri_controls_body">Menghapus data bersifat permanen. Ekspor cadangan terlebih dahulu jika Anda ingin menyimpan salinan.</string>
+    <string name="pri_delete_all">Hapus semua data buku harian</string>
+    <string name="pri_confirm_title">Hapus semuanya?</string>
+    <string name="pri_confirm_body">Tindakan ini menghapus secara permanen semua periode, catatan harian, entri jurnal, pengingat, dan preferensi di perangkat ini. Tindakan ini tidak dapat dibatalkan.</string>
+    <string name="pri_confirm_delete">Hapus semuanya</string>
+    <string name="pri_confirm_keep">Pertahankan data saya</string>
+</resources>

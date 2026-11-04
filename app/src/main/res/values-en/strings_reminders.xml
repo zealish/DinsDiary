@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rem_title">Your reminders</string>
+    <string name="rem_subtitle">Optional notifications, stored and scheduled locally.</string>
+    <string name="rem_empty">No reminders yet. Add a gentle nudge below.</string>
+    <string name="rem_footnote">Reminders are scheduled on this device. Notification content is private by default.</string>
+    <string name="rem_schedule_one_day_before">%1$02d:%2$02d · 1 day before</string>
+    <string name="rem_schedule_days_before">%1$02d:%2$02d · %3$d days before</string>
+    <string name="rem_edit">Edit</string>
+    <string name="rem_delete">Delete</string>
+    <string name="rem_type_period">Expected period reminder</string>
+    <string name="rem_type_journal">Daily journal check-in</string>
+    <string name="rem_type_custom">Custom reminder</string>
+    <string name="rem_type_period_short">Expected</string>
+    <string name="rem_type_journal_short">Daily</string>
+    <string name="rem_type_custom_short">Custom</string>
+    <string name="rem_add">Add reminder</string>
+    <string name="rem_form_title_new">New reminder</string>
+    <string name="rem_form_title_edit">Edit reminder</string>
+    <string name="rem_hour">Hour</string>
+    <string name="rem_minute">Minute</string>
+    <string name="rem_days_before">Days before</string>
+    <string name="rem_custom_message_label">Custom message (optional, keep private)</string>
+    <string name="rem_save">Save</string>
+    <string name="rem_cancel">Cancel</string>
+    <string name="rem_notification_title">DinsDiary</string>
+    <string name="rem_default_message">A gentle reminder for you ♡</string>
+    <string name="rem_channel_name">Gentle reminders</string>
+    <string name="rem_channel_description">Private local reminders from your diary</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab_home">Beranda</string>
+    <string name="tab_calendar">Kalender</string>
+    <string name="tab_insights">Wawasan</string>
+    <string name="tab_journal">Jurnal</string>
+    <string name="tab_profile">Profil</string>
+    <string name="datepicker_clear">Hapus</string>
+    <string name="datepicker_cancel">Batal</string>
+    <string name="datepicker_confirm">OK</string>
+</resources>

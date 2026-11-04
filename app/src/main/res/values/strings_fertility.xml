@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fer_eyebrow">ESTIMASI FASE SIKLUS</string>
+    <string name="fer_title">Jendela kesuburan</string>
+    <string name="fer_subtitle">Hanya estimasi berbasis kalender.</string>
+    <string name="fer_ovulation_label">ESTIMASI OVULASI</string>
+    <string name="fer_no_data">Data belum cukup</string>
+    <string name="fer_based_on">Berdasarkan prediksi haid berikutnya: %1$s</string>
+    <string name="fer_confidence_insufficient">Keyakinan tak cukup data</string>
+    <string name="fer_confidence_low">Keyakinan rendah</string>
+    <string name="fer_confidence_moderate">Keyakinan sedang</string>
+    <string name="fer_confidence_higher">Keyakinan lebih tinggi</string>
+    <string name="fer_window_title">Perkiraan jendela subur</string>
+    <string name="fer_window_range">%1$s – %2$s</string>
+    <string name="fer_window_range_compact">%1$d – %2$d %3$s</string>
+    <string name="fer_estimate">Estimasi</string>
+    <string name="fer_window_empty">Catat haid untuk membuka estimasi ini.</string>
+    <string name="fer_luteal_note">Menggunakan asumsi fase luteal %1$d hari dan pola catatanmu.</string>
+    <string name="fer_how_title">Cara estimasi ini dihitung</string>
+    <string name="fer_how_next_title">Estimasi haid berikutnya</string>
+    <string name="fer_how_luteal_title">Asumsi fase luteal</string>
+    <string name="fer_how_luteal_sub">%1$d hari (dapat diubah)</string>
+    <string name="fer_how_ovulation_title">Estimasi ovulasi</string>
+    <string name="fer_disclaimer">Penting: estimasi kalender ini tidak dapat memastikan ovulasi, menentukan kesuburan aktual, atau mengidentifikasi hari aman untuk hubungan seks tanpa pengaman. Jangan gunakan sebagai kontrasepsi.</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ins_eyebrow">Pola Kamu</string>
+    <string name="ins_title">Temuan kecil</string>
+    <string name="ins_subtitle">Berdasarkan riwayat yang kamu catat.</string>
+    <string name="ins_fertility_cd">Estimasi kesuburan</string>
+    <string name="ins_avg_cycle">Rata-rata siklus</string>
+    <string name="ins_avg_period">Rata-rata haid</string>
+    <string name="ins_cycles_recorded_one">%1$d siklus tercatat</string>
+    <string name="ins_cycles_recorded_many">%1$d siklus tercatat</string>
+    <string name="ins_no_cycles">Belum ada siklus teramati</string>
+    <string name="ins_periods_last_one">%1$d haid terakhir</string>
+    <string name="ins_periods_last_many">%1$d haid terakhir</string>
+    <string name="ins_no_periods">Belum ada haid tercatat</string>
+    <string name="ins_history_title">Riwayat panjang siklus</string>
+    <string name="ins_observed">Teramati</string>
+    <string name="ins_history_empty">Catat minimal dua haid untuk melihat riwayatmu.</string>
+    <string name="ins_bar_days">%1$dh</string>
+    <string name="ins_duration_title">Durasi haid</string>
+    <string name="ins_duration_avg_one">Rata-rata dari %1$d haid tercatat</string>
+    <string name="ins_duration_avg_many">Rata-rata dari %1$d haid tercatat</string>
+    <string name="ins_duration_empty">Catat haid untuk melihat rata-ratamu</string>
+    <string name="ins_mood_title">Ringkasan suasana hati</string>
+    <string name="ins_symptom_title">Ringkasan gejala</string>
+    <string name="ins_top_mood">Suasana hati yang paling sering dicatat</string>
+    <string name="ins_top_symptom">Gejala yang paling sering dicatat</string>
+    <string name="ins_logged_sub">Tercatat di jurnalmu</string>
+    <string name="ins_no_moods">Belum ada suasana hati yang dicatat.</string>
+    <string name="ins_no_symptoms">Belum ada gejala yang dicatat.</string>
+    <string name="ins_logs_one">%1$d catatan</string>
+    <string name="ins_logs_many">%1$d catatan</string>
+    <string name="ins_days_one">%1$s hari</string>
+    <string name="ins_days_many">%1$s hari</string>
+    <string name="ins_disclaimer">Wawasan menggambarkan catatanmu sendiri. Wawasan tidak mendiagnosis kondisi atau menjelaskan penyebab gejala.</string>
+</resources>

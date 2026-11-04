@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pro_eyebrow">RUANGMU</string>
+    <string name="pro_title">Profil</string>
+    <string name="pro_subtitle">Buat DinsDiary terasa milikmu.</string>
+    <string name="pro_default_name">Halo ♡</string>
+    <string name="pro_identity_sub">Diari pribadi · Profil lokal</string>
+    <string name="pro_edit">Ubah</string>
+    <string name="pro_name_label">Nama tampilan (opsional)</string>
+    <string name="pro_prefs_title">Preferensi siklus</string>
+    <string name="pro_cycle_label">Panjang siklus, hari (20–40, opsional)</string>
+    <string name="pro_period_label">Durasi haid, hari (opsional)</string>
+    <string name="pro_luteal_label">Asumsi fase luteal, hari</string>
+    <string name="pro_save">Simpan</string>
+    <string name="pro_cancel">Batal</string>
+    <string name="pro_cycle_row">Panjang siklus</string>
+    <string name="pro_personal_pref">Preferensi pribadi</string>
+    <string name="pro_period_row">Durasi haid</string>
+    <string name="pro_luteal_row">Fase luteal</string>
+    <string name="pro_default_assumption">Asumsi bawaan</string>
+    <string name="pro_days_value">%1$d hari</string>
+    <string name="pro_edit_prefs">Ubah preferensi siklus</string>
+    <string name="pro_error_cycle">Panjang siklus harus 20–40 hari, atau kosong.</string>
+    <string name="pro_error_period">Durasi haid harus 1–10 hari, atau kosong.</string>
+    <string name="pro_error_luteal">Fase luteal harus 8–20 hari.</string>
+    <string name="pro_saved">Preferensi disimpan.</string>
+    <string name="pro_reminders">Pengingat</string>
+    <string name="pro_reminders_sub">Kelola notifikasi lokal</string>
+    <string name="pro_privacy">Privasi &amp; data</string>
+    <string name="pro_privacy_sub">Kunci aplikasi, ekspor, dan hapus</string>
+    <string name="pro_appearance">Tampilan</string>
+    <string name="pro_appearance_sub">Tema terang / gelap</string>
+    <string name="pro_language_sub">Pilih bahasa</string>
+    <string name="pro_theme_system">Sistem</string>
+    <string name="pro_theme_light">Terang</string>
+    <string name="pro_theme_dark">Gelap</string>
+    <string name="pro_language">Bahasa</string>
+</resources>

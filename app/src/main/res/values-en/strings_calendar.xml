@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cal_log_period">＋ Log period</string>
+    <string name="cal_eyebrow">YOUR MONTH</string>
+    <string name="cal_tap_hint">Tap a date to see its details.</string>
+    <string name="cal_prev_month">Previous month</string>
+    <string name="cal_weekday_sun">S</string>
+    <string name="cal_weekday_mon">M</string>
+    <string name="cal_weekday_tue">T</string>
+    <string name="cal_weekday_wed">W</string>
+    <string name="cal_weekday_thu">T</string>
+    <string name="cal_weekday_fri">F</string>
+    <string name="cal_weekday_sat">S</string>
+    <string name="cal_desc_recorded">, period recorded</string>
+    <string name="cal_desc_predicted">, predicted period (estimate)</string>
+    <string name="cal_desc_ovulation">, estimated ovulation</string>
+    <string name="cal_desc_fertile">, estimated fertile window</string>
+    <string name="cal_desc_today">, today</string>
+    <string name="cal_desc_selected">, selected</string>
+    <string name="cal_legend_recorded">Period recorded</string>
+    <string name="cal_legend_predicted">Predicted</string>
+    <string name="cal_legend_fertile">Fertile estimate</string>
+    <string name="cal_status_recorded">Period recorded</string>
+    <string name="cal_status_predicted">Predicted period</string>
+    <string name="cal_status_ovulation">Estimated ovulation</string>
+    <string name="cal_status_fertile">Estimated fertile window</string>
+    <string name="cal_status_none">No entry</string>
+    <string name="cal_subtitle_recorded">Actual record saved in your diary</string>
+    <string name="cal_subtitle_predicted">Estimate — may change as you log</string>
+    <string name="cal_subtitle_ovulation">Calendar estimate only</string>
+    <string name="cal_subtitle_fertile">Calendar estimate only</string>
+    <string name="cal_subtitle_none">Nothing recorded for this date</string>
+    <string name="cal_selected_date">Selected date · %1$s</string>
+    <string name="cal_journal_saved">Journal entry saved</string>
+    <string name="cal_journal_empty">No journal entry yet</string>
+    <string name="cal_journal_saved_sub">Mood, symptoms, and notes</string>
+    <string name="cal_journal_empty_sub">Add mood, symptoms, or notes</string>
+    <string name="cal_open">Open</string>
+    <string name="cal_add">Add</string>
+    <string name="cal_estimate_note">Calendar estimate only — it cannot confirm ovulation or be used as contraception.</string>
+</resources>

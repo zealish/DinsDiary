@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="rem_title">Pengingat Anda</string>
+    <string name="rem_subtitle">Notifikasi opsional, disimpan dan dijadwalkan secara lokal.</string>
+    <string name="rem_empty">Belum ada pengingat. Tambahkan pengingat lembut di bawah.</string>
+    <string name="rem_footnote">Pengingat dijadwalkan di perangkat ini. Isi notifikasi bersifat pribadi secara default.</string>
+    <string name="rem_schedule_one_day_before">%1$02d:%2$02d · 1 hari sebelumnya</string>
+    <string name="rem_schedule_days_before">%1$02d:%2$02d · %3$d hari sebelumnya</string>
+    <string name="rem_edit">Ubah</string>
+    <string name="rem_delete">Hapus</string>
+    <string name="rem_type_period">Pengingat periode yang diperkirakan</string>
+    <string name="rem_type_journal">Pengingat jurnal harian</string>
+    <string name="rem_type_custom">Pengingat kustom</string>
+    <string name="rem_type_period_short">Periode</string>
+    <string name="rem_type_journal_short">Harian</string>
+    <string name="rem_type_custom_short">Kustom</string>
+    <string name="rem_add">Tambah pengingat</string>
+    <string name="rem_form_title_new">Pengingat baru</string>
+    <string name="rem_form_title_edit">Ubah pengingat</string>
+    <string name="rem_hour">Jam</string>
+    <string name="rem_minute">Menit</string>
+    <string name="rem_days_before">Hari sebelumnya</string>
+    <string name="rem_custom_message_label">Pesan kustom (opsional, jaga kerahasiaannya)</string>
+    <string name="rem_save">Simpan</string>
+    <string name="rem_cancel">Batal</string>
+    <string name="rem_notification_title">DinsDiary</string>
+    <string name="rem_default_message">Pengingat lembut untuk Anda ♡</string>
+    <string name="rem_channel_name">Pengingat lembut</string>
+    <string name="rem_channel_description">Pengingat lokal pribadi dari buku harian Anda</string>
+</resources>

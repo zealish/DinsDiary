@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Journal daily check-in (PRD §6.6). English. -->
+    <string name="journal_eyebrow">DAILY CHECK-IN</string>
+    <string name="journal_title">Your body today</string>
+    <string name="journal_today">Today</string>
+    <string name="journal_mood_title">How is your mood?</string>
+    <string name="journal_symptoms_title">Any symptoms?</string>
+    <string name="journal_symptoms_loading">Loading symptom list…</string>
+    <string name="journal_none">None</string>
+    <string name="journal_severity_title">Severity</string>
+    <string name="journal_severity_mild">Mild</string>
+    <string name="journal_severity_moderate">Moderate</string>
+    <string name="journal_severity_severe">Severe</string>
+    <string name="journal_day_title">A little about your day</string>
+    <string name="journal_energy_label">Energy</string>
+    <string name="journal_energy_low">Low</string>
+    <string name="journal_energy_normal">Normal</string>
+    <string name="journal_energy_high">High</string>
+    <string name="journal_sleep_label">Sleep</string>
+    <string name="journal_sleep_under6">Under 6 hours</string>
+    <string name="journal_sleep_h78">7–8 hours</string>
+    <string name="journal_sleep_over8">Over 8 hours</string>
+    <string name="journal_notes_placeholder">Write anything on your mind...</string>
+    <string name="journal_notes_label">Notes</string>
+    <string name="journal_need_input">Pick a mood or at least one symptom first.</string>
+    <string name="journal_saved_for">Saved for %1$s.</string>
+    <string name="journal_save_today">Save today\'s journal</string>
+    <string name="journal_save">Save journal</string>
+
+    <!-- Shared mood display labels (referenced from ui.i18n moodLabel). -->
+    <string name="mood_happy">Happy</string>
+    <string name="mood_calm">Calm</string>
+    <string name="mood_loved">Loved</string>
+    <string name="mood_okay">Okay</string>
+    <string name="mood_low">Low</string>
+    <string name="mood_anxious">Anxious</string>
+
+    <!-- Shared system symptom display labels (referenced from ui.i18n systemSymptomLabel). -->
+    <string name="symptom_cramps">Cramps</string>
+    <string name="symptom_headache">Headache</string>
+    <string name="symptom_bloating">Bloating</string>
+    <string name="symptom_acne">Acne</string>
+    <string name="symptom_breast_tenderness">Breast tenderness</string>
+    <string name="symptom_backache">Backache</string>
+    <string name="symptom_fatigue">Fatigue</string>
+</resources>

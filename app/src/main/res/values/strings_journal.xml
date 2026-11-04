@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Journal daily check-in (PRD §6.6). Default language: Indonesian. -->
+    <string name="journal_eyebrow">CHECK-IN HARIAN</string>
+    <string name="journal_title">Tubuhmu hari ini</string>
+    <string name="journal_today">Hari ini</string>
+    <string name="journal_mood_title">Bagaimana suasana hatimu?</string>
+    <string name="journal_symptoms_title">Ada gejala?</string>
+    <string name="journal_symptoms_loading">Memuat daftar gejala…</string>
+    <string name="journal_none">Tidak ada</string>
+    <string name="journal_severity_title">Keparahan</string>
+    <string name="journal_severity_mild">Ringan</string>
+    <string name="journal_severity_moderate">Sedang</string>
+    <string name="journal_severity_severe">Berat</string>
+    <string name="journal_day_title">Sedikit tentang harimu</string>
+    <string name="journal_energy_label">Energi</string>
+    <string name="journal_energy_low">Rendah</string>
+    <string name="journal_energy_normal">Normal</string>
+    <string name="journal_energy_high">Tinggi</string>
+    <string name="journal_sleep_label">Tidur</string>
+    <string name="journal_sleep_under6">Kurang dari 6 jam</string>
+    <string name="journal_sleep_h78">7–8 jam</string>
+    <string name="journal_sleep_over8">Lebih dari 8 jam</string>
+    <string name="journal_notes_label">Catatan</string>
+    <string name="journal_notes_placeholder">Tulis apa pun yang ada di pikiranmu…</string>
+    <string name="journal_need_input">Pilih suasana hati atau setidaknya satu gejala dulu.</string>
+    <string name="journal_saved_for">Tersimpan untuk %1$s.</string>
+    <string name="journal_save_today">Simpan jurnal hari ini</string>
+    <string name="journal_save">Simpan jurnal</string>
+
+    <!-- Shared mood display labels (referenced from ui.i18n moodLabel). -->
+    <string name="mood_happy">Senang</string>
+    <string name="mood_calm">Tenang</string>
+    <string name="mood_loved">Disayang</string>
+    <string name="mood_okay">Biasa saja</string>
+    <string name="mood_low">Murung</string>
+    <string name="mood_anxious">Cemas</string>
+
+    <!-- Shared system symptom display labels (referenced from ui.i18n systemSymptomLabel). -->
+    <string name="symptom_cramps">Kram</string>
+    <string name="symptom_headache">Sakit kepala</string>
+    <string name="symptom_bloating">Kembung</string>
+    <string name="symptom_acne">Jerawat</string>
+    <string name="symptom_breast_tenderness">Nyeri payudara</string>
+    <string name="symptom_backache">Sakit punggung</string>
+    <string name="symptom_fatigue">Lelah</string>
+</resources>

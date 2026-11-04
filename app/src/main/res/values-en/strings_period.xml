@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="per_eyebrow">MENSTRUAL RECORD</string>
+    <string name="per_status">Record status</string>
+    <string name="per_completed">Completed</string>
+    <string name="per_flow_intensity">Flow intensity</string>
+    <string name="per_spotting_q">Spotting?</string>
+    <string name="per_yes">Yes</string>
+    <string name="per_no">No</string>
+    <string name="per_actual_note">Dates entered here are actual records. Predicted dates are kept separate and never overwrite your entries.</string>
+    <string name="per_save_record">Save period record</string>
+    <string name="per_flow_light">Light</string>
+    <string name="per_flow_medium">Medium</string>
+    <string name="per_flow_heavy">Heavy</string>
+    <string name="per_flow_very_heavy">Very heavy</string>
+    <string name="per_title">Log your period</string>
+    <string name="per_subtitle">Record what actually happened.</string>
+    <string name="per_recorded">Recorded periods</string>
+    <string name="per_view_calendar">View calendar</string>
+    <string name="per_empty">No periods recorded yet. Your first entry anchors future estimates.</string>
+    <string name="per_delete_title">Delete this period?</string>
+    <string name="per_delete_text">This removes the record starting %1$s. Estimates will be recalculated. This cannot be undone.</string>
+    <string name="per_delete">Delete</string>
+    <string name="per_keep">Keep</string>
+    <string name="per_new">New period</string>
+    <string name="per_edit">Edit period</string>
+    <string name="per_start">Start date</string>
+    <string name="per_end">End date (optional)</string>
+    <string name="per_ongoing">Still ongoing</string>
+    <string name="per_save">Save period</string>
+    <string name="per_update">Update period</string>
+    <string name="per_cancel">Cancel</string>
+    <string name="per_flow_title">Daily flow details</string>
+    <string name="per_date">Date</string>
+    <string name="per_spotting">Spotting</string>
+    <string name="per_notes">Notes (optional)</string>
+    <string name="per_save_flow">Save daily flow</string>
+    <string name="per_range">%1$s → %2$s</string>
+    <string name="per_ongoing_word">ongoing</string>
+    <string name="per_edit_action">Edit</string>
+</resources>

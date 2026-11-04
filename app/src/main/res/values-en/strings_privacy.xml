@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pri_title">Privacy &amp; security</string>
+    <string name="pri_subtitle">Manage how your personal diary is protected.</string>
+    <string name="pri_local_title">Your data stays on this device</string>
+    <string name="pri_local_body">No account required. Nothing leaves the phone without your explicit action.</string>
+    <string name="pri_lock_title">App lock</string>
+    <string name="pri_lock_body">PIN / biometric lock is planned next and needs dedicated security design (Keystore, encrypted backup, deletion semantics). Not available yet.</string>
+    <string name="pri_coming_soon">Coming soon</string>
+    <string name="pri_export_title">Export my data</string>
+    <string name="pri_export_body">Download a JSON copy of your records, including schema version. Keep the file somewhere safe — it is sensitive.</string>
+    <string name="pri_export_action">Export</string>
+    <string name="pri_controls_title">Data controls</string>
+    <string name="pri_controls_body">Deleting data is permanent. Export a backup first if you want to keep a copy.</string>
+    <string name="pri_delete_all">Delete all diary data</string>
+    <string name="pri_confirm_title">Delete everything?</string>
+    <string name="pri_confirm_body">This permanently removes all periods, daily records, journal entries, reminders, and preferences on this device. This cannot be undone.</string>
+    <string name="pri_confirm_delete">Delete everything</string>
+    <string name="pri_confirm_keep">Keep my data</string>
+</resources>

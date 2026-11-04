@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cal_log_period">＋ Catat haid</string>
+    <string name="cal_eyebrow">BULAN ANDA</string>
+    <string name="cal_tap_hint">Ketuk tanggal untuk melihat detailnya.</string>
+    <string name="cal_prev_month">Bulan sebelumnya</string>
+    <string name="cal_weekday_sun">M</string>
+    <string name="cal_weekday_mon">S</string>
+    <string name="cal_weekday_tue">S</string>
+    <string name="cal_weekday_wed">R</string>
+    <string name="cal_weekday_thu">K</string>
+    <string name="cal_weekday_fri">J</string>
+    <string name="cal_weekday_sat">S</string>
+    <string name="cal_desc_recorded">, haid tercatat</string>
+    <string name="cal_desc_predicted">, prediksi haid (perkiraan)</string>
+    <string name="cal_desc_ovulation">, perkiraan ovulasi</string>
+    <string name="cal_desc_fertile">, perkiraan masa subur</string>
+    <string name="cal_desc_today">, hari ini</string>
+    <string name="cal_desc_selected">, dipilih</string>
+    <string name="cal_legend_recorded">Haid tercatat</string>
+    <string name="cal_legend_predicted">Prediksi</string>
+    <string name="cal_legend_fertile">Perkiraan subur</string>
+    <string name="cal_status_recorded">Haid tercatat</string>
+    <string name="cal_status_predicted">Prediksi haid</string>
+    <string name="cal_status_ovulation">Perkiraan ovulasi</string>
+    <string name="cal_status_fertile">Perkiraan masa subur</string>
+    <string name="cal_status_none">Tidak ada catatan</string>
+    <string name="cal_subtitle_recorded">Catatan aktual tersimpan di diary Anda</string>
+    <string name="cal_subtitle_predicted">Perkiraan — dapat berubah saat Anda mencatat</string>
+    <string name="cal_subtitle_ovulation">Hanya perkiraan kalender</string>
+    <string name="cal_subtitle_fertile">Hanya perkiraan kalender</string>
+    <string name="cal_subtitle_none">Tidak ada catatan untuk tanggal ini</string>
+    <string name="cal_selected_date">Tanggal dipilih · %1$s</string>
+    <string name="cal_journal_saved">Entri jurnal tersimpan</string>
+    <string name="cal_journal_empty">Belum ada entri jurnal</string>
+    <string name="cal_journal_saved_sub">Mood, gejala, dan catatan</string>
+    <string name="cal_journal_empty_sub">Tambahkan mood, gejala, atau catatan</string>
+    <string name="cal_open">Buka</string>
+    <string name="cal_add">Tambah</string>
+    <string name="cal_estimate_note">Hanya perkiraan kalender — tidak dapat memastikan ovulasi atau digunakan sebagai kontrasepsi.</string>
+</resources>

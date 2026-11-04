@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="onb_step">Langkah %1$d dari %2$d</string>
+    <string name="onb_profile_title">Yuk, kenalan dulu</string>
+    <string name="onb_profile_sub">Bagikan hanya yang kamu mau. Semua opsional dan bisa diubah nanti.</string>
+    <string name="onb_name">Nama panggilanmu? (opsional)</string>
+    <string name="onb_dob">Tanggal lahir (opsional)</string>
+    <string name="onb_continue">Lanjut</string>
+    <string name="onb_skip">Lewati dulu</string>
+    <string name="onb_cycle_title">Dasar siklusmu</string>
+    <string name="onb_cycle_sub">Ini preferensi awal, bukan fakta terukur. Estimasi membaik seiring kamu mencatat.</string>
+    <string name="onb_avg_length">Rata-rata panjang siklus: %1$d hari (umumnya 21–35)</string>
+    <string name="onb_period_label">Durasi haid</string>
+    <string name="onb_days">%1$d hari</string>
+    <string name="onb_last_period">Haid terakhir dimulai (opsional)</string>
+    <string name="onb_luteal">Asumsi fase luteal (hanya estimasi)</string>
+    <string name="onb_back">Kembali</string>
+    <string name="onb_privacy_title">Buku harianmu bersifat pribadi</string>
+    <string name="onb_private_title">Privat sejak awal</string>
+    <string name="onb_private_body">Catatan tersimpan di perangkat ini. Tanpa akun atau internet. Prediksi hanyalah estimasi, bukan nasihat medis.</string>
+    <string name="onb_consent">Saya memahami dan setuju untuk melanjutkan.</string>
+    <string name="onb_finish">Selesai ♡</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pro_eyebrow">YOUR SPACE</string>
+    <string name="pro_title">Profile</string>
+    <string name="pro_subtitle">Make DinsDiary feel like yours.</string>
+    <string name="pro_default_name">Hello ♡</string>
+    <string name="pro_identity_sub">Personal diary · Local profile</string>
+    <string name="pro_edit">Edit</string>
+    <string name="pro_name_label">Display name (optional)</string>
+    <string name="pro_prefs_title">Cycle preferences</string>
+    <string name="pro_cycle_label">Cycle length, days (20–40, optional)</string>
+    <string name="pro_period_label">Period duration, days (optional)</string>
+    <string name="pro_luteal_label">Luteal phase assumption, days</string>
+    <string name="pro_save">Save</string>
+    <string name="pro_cancel">Cancel</string>
+    <string name="pro_cycle_row">Cycle length</string>
+    <string name="pro_personal_pref">Personal preference</string>
+    <string name="pro_period_row">Period duration</string>
+    <string name="pro_luteal_row">Luteal phase</string>
+    <string name="pro_default_assumption">Default assumption</string>
+    <string name="pro_days_value">%1$d days</string>
+    <string name="pro_edit_prefs">Edit cycle preferences</string>
+    <string name="pro_error_cycle">Cycle length must be 20–40 days, or empty.</string>
+    <string name="pro_error_period">Period duration must be 1–10 days, or empty.</string>
+    <string name="pro_error_luteal">Luteal phase must be 8–20 days.</string>
+    <string name="pro_saved">Preferences saved.</string>
+    <string name="pro_reminders">Reminders</string>
+    <string name="pro_reminders_sub">Manage local notifications</string>
+    <string name="pro_privacy">Privacy &amp; data</string>
+    <string name="pro_privacy_sub">App lock, export, and delete</string>
+    <string name="pro_appearance">Appearance</string>
+    <string name="pro_appearance_sub">Light / dark theme</string>
+    <string name="pro_language_sub">Choose language</string>
+    <string name="pro_theme_system">System</string>
+    <string name="pro_theme_light">Light</string>
+    <string name="pro_theme_dark">Dark</string>
+    <string name="pro_language">Language</string>
+</resources>

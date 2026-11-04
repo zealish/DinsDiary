@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fer_eyebrow">CYCLE PHASE ESTIMATES</string>
+    <string name="fer_title">Fertility window</string>
+    <string name="fer_subtitle">Calendar-based estimates only.</string>
+    <string name="fer_ovulation_label">ESTIMATED OVULATION</string>
+    <string name="fer_no_data">Not enough data</string>
+    <string name="fer_based_on">Based on predicted next period: %1$s</string>
+    <string name="fer_confidence_insufficient">Insufficient data confidence</string>
+    <string name="fer_confidence_low">Low confidence</string>
+    <string name="fer_confidence_moderate">Moderate confidence</string>
+    <string name="fer_confidence_higher">Higher confidence</string>
+    <string name="fer_window_title">Estimated fertile window</string>
+    <string name="fer_window_range">%1$s – %2$s</string>
+    <string name="fer_window_range_compact">%1$d – %2$d %3$s</string>
+    <string name="fer_estimate">Estimate</string>
+    <string name="fer_window_empty">Log a period to unlock this estimate.</string>
+    <string name="fer_luteal_note">Uses a %1$d-day luteal-phase assumption and your recorded pattern.</string>
+    <string name="fer_how_title">How this is estimated</string>
+    <string name="fer_how_next_title">Next period estimate</string>
+    <string name="fer_how_luteal_title">Luteal phase assumption</string>
+    <string name="fer_how_luteal_sub">%1$d days (configurable)</string>
+    <string name="fer_how_ovulation_title">Estimated ovulation</string>
+    <string name="fer_disclaimer">Important: this calendar estimate cannot confirm ovulation, determine actual fertility, or identify safe days for unprotected sex. Do not use it as contraception.</string>
+</resources>

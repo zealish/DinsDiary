@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="per_title">Catat haidmu</string>
+    <string name="per_subtitle">Catat yang benar-benar terjadi.</string>
+    <string name="per_eyebrow">CATATAN HAID</string>
+    <string name="per_status">Status catatan</string>
+    <string name="per_completed">Selesai</string>
+    <string name="per_flow_intensity">Intensitas aliran</string>
+    <string name="per_spotting_q">Flek?</string>
+    <string name="per_yes">Ya</string>
+    <string name="per_no">Tidak</string>
+    <string name="per_actual_note">Tanggal yang dimasukkan di sini adalah catatan aktual. Tanggal prediksi disimpan terpisah dan tidak pernah menimpa catatanmu.</string>
+    <string name="per_save_record">Simpan catatan haid</string>
+    <string name="per_flow_light">Ringan</string>
+    <string name="per_flow_medium">Sedang</string>
+    <string name="per_flow_heavy">Deras</string>
+    <string name="per_flow_very_heavy">Sangat deras</string>
+    <string name="per_recorded">Haid tercatat</string>
+    <string name="per_view_calendar">Lihat kalender</string>
+    <string name="per_empty">Belum ada haid tercatat. Catatan pertamamu menjadi acuan estimasi berikutnya.</string>
+    <string name="per_delete_title">Hapus haid ini?</string>
+    <string name="per_delete_text">Ini menghapus catatan mulai %1$s. Estimasi akan dihitung ulang. Tindakan ini tidak dapat dibatalkan.</string>
+    <string name="per_delete">Hapus</string>
+    <string name="per_keep">Pertahankan</string>
+    <string name="per_new">Haid baru</string>
+    <string name="per_edit">Ubah haid</string>
+    <string name="per_start">Tanggal mulai</string>
+    <string name="per_end">Tanggal selesai (opsional)</string>
+    <string name="per_ongoing">Masih berlangsung</string>
+    <string name="per_save">Simpan haid</string>
+    <string name="per_update">Perbarui haid</string>
+    <string name="per_cancel">Batal</string>
+    <string name="per_flow_title">Detail aliran harian</string>
+    <string name="per_date">Tanggal</string>
+    <string name="per_spotting">Flek</string>
+    <string name="per_notes">Catatan (opsional)</string>
+    <string name="per_save_flow">Simpan aliran harian</string>
+    <string name="per_range">%1$s → %2$s</string>
+    <string name="per_ongoing_word">berlangsung</string>
+    <string name="per_edit_action">Ubah</string>
+</resources>

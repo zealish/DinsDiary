@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ins_eyebrow">YOUR PATTERNS</string>
+    <string name="ins_title">Little discoveries</string>
+    <string name="ins_subtitle">Based on your recorded history.</string>
+    <string name="ins_fertility_cd">Fertility estimates</string>
+    <string name="ins_avg_cycle">Average cycle</string>
+    <string name="ins_avg_period">Average period</string>
+    <string name="ins_cycles_recorded_one">%1$d recorded cycle</string>
+    <string name="ins_cycles_recorded_many">%1$d recorded cycles</string>
+    <string name="ins_no_cycles">No observed cycles</string>
+    <string name="ins_periods_last_one">Last %1$d period</string>
+    <string name="ins_periods_last_many">Last %1$d periods</string>
+    <string name="ins_no_periods">No recorded periods</string>
+    <string name="ins_history_title">Cycle length history</string>
+    <string name="ins_observed">Observed</string>
+    <string name="ins_history_empty">Log at least two periods to see your history.</string>
+    <string name="ins_bar_days">%1$dd</string>
+    <string name="ins_duration_title">Period duration</string>
+    <string name="ins_duration_avg_one">Average based on %1$d recorded period</string>
+    <string name="ins_duration_avg_many">Average based on %1$d recorded periods</string>
+    <string name="ins_duration_empty">Log periods to see your average</string>
+    <string name="ins_mood_title">Mood overview</string>
+    <string name="ins_symptom_title">Symptom overview</string>
+    <string name="ins_top_mood">Most frequently logged mood</string>
+    <string name="ins_top_symptom">Most frequently logged symptom</string>
+    <string name="ins_logged_sub">Logged in your journal</string>
+    <string name="ins_no_moods">No moods logged yet.</string>
+    <string name="ins_no_symptoms">No symptoms logged yet.</string>
+    <string name="ins_logs_one">%1$d log</string>
+    <string name="ins_logs_many">%1$d logs</string>
+    <string name="ins_days_one">%1$s day</string>
+    <string name="ins_days_many">%1$s days</string>
+    <string name="ins_disclaimer">Insights describe your own entries. They do not diagnose conditions or explain the cause of symptoms.</string>
+</resources>

@@ -1,0 +1,48 @@
+# Gradle / build outputs
+.gradle/
+build/
+app/build/
+*/build/
+out/
+
+# Gradle wrapper cache (keep wrapper jar + properties tracked)
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+*.iws
+*.ipr
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.hprof
+
+# Signing keys — NEVER commit
+*.jks
+*.keystore
+*.p12
+
+# VS Code (local-only settings)
+.vscode/
+
+# Kotlin incremental sessions
+.kotlin/
+
+# OS noise
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs / temp
+*.log
+*.tmp
+*.temp
+*.swp
+*~
+
+# Docs (per explicit request: ignore semua md)
+*.md
