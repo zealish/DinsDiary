@@ -23,11 +23,11 @@ val releaseKeyPassword: String? =
     System.getenv("ANDROID_KEY_PASSWORD") ?: project.findProperty("ANDROID_KEY_PASSWORD")?.toString()
 
 android {
-    namespace = "com.dinsdiary"
+    namespace = "com.zealish.dinsdiary"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.dinsdiary"
+        applicationId = "com.zealish.dinsdiary"
         minSdk = 26
         targetSdk = 36
         versionCode = versionCodeProp
